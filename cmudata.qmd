@@ -1,0 +1,13 @@
+---
+title: "S&J Final"
+author: "Sam Murabito, Jessica Sotindjo"
+format: html
+editor: visual
+---
+
+```{r, echo=FALSE}
+# Load the package
+# Me when I load a package
+
+```
+
